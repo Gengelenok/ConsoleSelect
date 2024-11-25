@@ -1,0 +1,14 @@
+{
+    "ru": {
+        "wrongInput": "Неверный ввод. Попробуйте снова.",
+        "inputCusValue": "Введите значение: ",
+        "selectVariant": "Выберите вариант: ",
+        "selfInput": "Ввести самому"
+    },
+    "en": {
+        "wrongInput": "Incorrect input. Try again.",
+        "inputCusValue": "Enter value: ",
+        "selectVariant": "Select an option: ",
+        "selfInput": "Enter manually"
+    }
+}
